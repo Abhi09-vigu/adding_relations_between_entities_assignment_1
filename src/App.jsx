@@ -1,5 +1,5 @@
 import React from "react";
-import DestinationContainer from "./assets/DestinationContainer";
+import DestinationContainer from "./components/DestinationContainer";
 
 function App() {
   return (
